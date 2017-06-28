@@ -292,7 +292,9 @@ for num in range(1,101):
 
 ### 学習サイト
 
-* PyQ: pyq.jp
+* PyQ: https://pyq.jp/
+
+![PyQ](images/pyq.png)
 
 ---
 
