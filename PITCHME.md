@@ -180,7 +180,7 @@ for num in range(1,101):
   * 機械学習
   * 構成管理
   * ドキュメンテーション
-  * その他いろいろ
+  * その他
 
 ---
 
@@ -224,6 +224,7 @@ for num in range(1,101):
 * scikit-learn: 機械学習
 * Matplotlib, Bokeh: 可視化
 * Keras, Caffe, TensorFlow: ディープラーニング
+* NLTK: 自然言語処理
 * 詳細は次のセッションで
 
 ---
@@ -244,6 +245,14 @@ for num in range(1,101):
 
 ![Sphinx](images/sphinx.png)
 
+### その他
+
+* OpenPyXL: https://openpyxl.readthedocs.io/
+  * Excelファイルの読み書き
+* Slackbot: https://github.com/lins05/slackbot
+  * Slack(チャット)のbotフレームワーク
+* awscli: https://aws.amazon.com/jp/cli/
+  * AWSのコマンドラインツール
 ---
 
 ### Pythonを学ぶには
