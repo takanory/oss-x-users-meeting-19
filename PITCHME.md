@@ -184,7 +184,7 @@ for num in range(1,101):
 
 ---
 
-### Pythonライブレリ厳選レシピ
+### Pythonライブラリ厳選レシピ
 
 * http://gihyo.jp/book/2015/978-4-7741-7707-6
 * 「これだけは知っていてほしい」を厳選
@@ -192,7 +192,7 @@ for num in range(1,101):
   * 標準ライブラリ
   * サードパーティ製パッケージ
 
-![Pythonライブレリ厳選レシピ](images/recipe.png)
+![Pythonライブラリ厳選レシピ](images/recipe.jpg)
 
 ---
 
