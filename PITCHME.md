@@ -261,3 +261,83 @@ for num in range(1,101):
 ### Pythonを学ぶには
 
 ---
+
+### Pythonを学ぶには
+
+* Webサイト
+* 学習サイト
+* Q&Aサイト
+* 書籍
+* コミュニティ
+
+---
+
+### Webサイト
+
+* Python公式ドキュメント
+  * 標準ライブラリ: http://docs.python.jp/3/library/
+  * チュートリアル: http://docs.python.jp/3/tutorial/
+  * HOWTO: http://docs.python.jp/3/howto/
+* Dive into Python 3日本語版: http://diveintopython3-ja.rdy.jp/
+
+---
+
+### 学習サイト
+
+* Paiza: https://paiza.jp/
+* ProjectEuler: https://projecteuler.net/
+* CheckIO: https://checkio.org/
+
+---
+
+### 学習サイト
+
+* PyQ: pyq.jp
+
+---
+
+### Q&Aサイト
+
+* Stack Overflow: https://ja.stackoverflow.com/
+* teratail: https://teratail.com/
+
+---
+
+### 書籍
+
+* [Pythonスタートブック](http://gihyo.jp/book/2010/978-4-7741-4229-6)
+* [Pythonチュートリアル](https://www.oreilly.co.jp/books/9784873117539/)
+* [Pythonプロフェッショナルプログラミング第2版](http://www.shuwasystem.co.jp/products/7980html/4315.html)
+* [Python ライブラリ厳選レシピ](http://gihyo.jp/book/2015/978-4-7741-7707-6)
+
+---
+
+### 書籍(雑誌)
+
+* Software Design 2017年6月号
+  * http://gihyo.jp/magazine/SD/archive/2017/201706
+  * 第2特集 今すぐはじめるPython
+
+![Software Design 2017年6月号](images/sofotwaredesign.jpg)
+  
+---
+
+### コミュニティ
+
+* python.jp: https://www.python.jp/
+* PyCon JP: http://pycon.jp
+* Python mini Hack-a-thon: https://pyhack.connpass.com/
+* PyData.Tokyo: http://pydata.tokyo/
+* PyLadies Tokyo: https://pyladies-tokyo.connpass.com/
+
+---
+
+### コミュニティのSlack
+
+* python.jp: https://www.python.jp/community/
+* PyCon JP: http://pyconjp-fellow.herokuapp.com/
+* Python mini Hack-a-thon: http://pyhack.herokuapp.com/
+* PyData: https://pydata-jp.herokuapp.com/
+* PyLadies Japan: [Slackアカウント申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLSelRdBGus7o6MsijTZiTt1kFAoFYQlwYgrBPQOrGVwGlAmHNg/viewform "Slackアカウント申請 - PyLadies Japan")
+
+
