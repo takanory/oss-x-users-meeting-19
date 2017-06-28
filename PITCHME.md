@@ -4,6 +4,7 @@
 < OSS X Users Meeting > #19 Python
 
 Takanori Suzuki / 2017-06-29
+
 ---
 
 ### Who am I?(お前誰よ)
@@ -13,6 +14,8 @@ Takanori Suzuki / 2017-06-29
 * 株式会社ビープラウド
 * 一般社団法人PyCon JP 理事
 * Pythonボルダリング部(#kabepy)部長
+
+![BeProud](images/beproud.png)
 
 ---
 
