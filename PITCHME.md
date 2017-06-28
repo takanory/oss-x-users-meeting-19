@@ -27,17 +27,9 @@ Takanori Suzuki / 2017-06-29
 
 ### 最初に質問
 
----
-
-### Python知ってる人?
-
----
-
-### Python書いたことある人?
-
----
-
-### 他のプログラミング言語は知ってる人?
+* Python知ってる人?
+* Python書いたことある人? |
+* 他のプログラミング言語は知ってる人? |
 
 ---
 
@@ -164,3 +156,97 @@ for num in range(1,101):
 ---
 
 ### Pythonでできること
+
+* コマンドラインツール
+* バッチ処理
+* Web開発
+* 機械学習
+* 構成管理
+* ドキュメンテーション
+* その他いろいろ
+
+---
+
+### 注目ライブラリ
+
+---
+
+### 注目ライブラリ
+
+* Pythonライブレリ厳選レシピ
+* Awesome Python
+
+  * Web開発
+  * 機械学習
+  * 構成管理
+  * ドキュメンテーション
+  * その他いろいろ
+
+---
+
+### Pythonライブレリ厳選レシピ
+
+* http://gihyo.jp/book/2015/978-4-7741-7707-6
+* 「これだけは知っていてほしい」を厳選
+
+  * 標準ライブラリ
+  * サードパーティ製パッケージ
+
+![Pythonライブレリ厳選レシピ](images/recipe.png)
+
+---
+
+### Awesome Python
+
+* https://github.com/vinta/awesome-python
+
+![Awesome Python](images/awesome-python.png)
+
+---
+
+### Web開発
+
+* Webフレームワーク
+
+  * Django: フルスタック
+  * Bottle: シンプル
+
+* Webスクレイピングフレームワーク
+
+  * Scrapy
+
+---
+
+### 機械学習
+
+* NumPy, SciPy: 数値計算、科学計算
+* Pandas: データ解析
+* scikit-learn: 機械学習
+* Matplotlib, Bokeh: 可視化
+* Keras, Caffe, TensorFlow: ディープラーニング
+* 詳細は次のセッションで
+
+---
+
+### 構成管理
+
+* Ansible
+* https://www.ansible.com/
+
+![Ansible](images/ansible.png)
+
+---
+
+### ドキュメンテーション
+
+* Sphinx
+* http://www.sphinx-doc.org/
+* reStructuredText または Markdown で記述
+
+![Sphinx](images/sphinx.png)
+
+---
+
+### Pythonを学ぶには
+
+---
