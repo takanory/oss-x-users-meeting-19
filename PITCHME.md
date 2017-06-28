@@ -1,4 +1,4 @@
-### Pyhtonの特徴と
+### Pythonの特徴と
 ### 注目ライブラリのご紹介
 
 < OSS X Users Meeting > #19 Python
