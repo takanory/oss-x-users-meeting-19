@@ -316,11 +316,10 @@ for num in range(1,101):
 
 ### 書籍(雑誌)
 
-* Software Design 2017年6月号
-  * http://gihyo.jp/magazine/SD/archive/2017/201706
+* [Software Design 2017年6月号](http://gihyo.jp/magazine/SD/archive/2017/201706)
   * 第2特集 今すぐはじめるPython
 
-![Software Design 2017年6月号](images/sofotwaredesign.jpg)
+![Software Design 2017年6月号](images/softwaredesign.jpg)
   
 ---
 
@@ -329,8 +328,8 @@ for num in range(1,101):
 * python.jp: https://www.python.jp/
 * PyCon JP: http://pycon.jp
 * Python mini Hack-a-thon: https://pyhack.connpass.com/
-* PyData.Tokyo: http://pydata.tokyo/
-* PyLadies Tokyo: https://pyladies-tokyo.connpass.com/
+* PyData.Tokyo: https://pydata.tokyo/
+* PyLadies Tokyo: http://tokyo.pyladies.com/
 
 ---
 
@@ -339,7 +338,26 @@ for num in range(1,101):
 * python.jp: https://www.python.jp/community/
 * PyCon JP: http://pyconjp-fellow.herokuapp.com/
 * Python mini Hack-a-thon: http://pyhack.herokuapp.com/
-* PyData: https://pydata-jp.herokuapp.com/
+* PyData-JP: https://pydata-jp.herokuapp.com/
 * PyLadies Japan: [Slackアカウント申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLSelRdBGus7o6MsijTZiTt1kFAoFYQlwYgrBPQOrGVwGlAmHNg/viewform "Slackアカウント申請 - PyLadies Japan")
 
+---
 
+### PyCon JP
+
+* https://pycon.jp/2017
+
+  * 2017年9月開催
+  * 700名以上が参加
+  * 有料(一般 10,000円)
+  * 早割は売り切れ
+
+![PyCon JP 2017](images/pyconjp2017-logo.png)
+
+---
+
+### Question?
+
+---
+
+### Thank you
