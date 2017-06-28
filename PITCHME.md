@@ -130,19 +130,19 @@ for num in range(1,101):
 
 * PEP 8: Style Guide for Python Code
 * https://www.python.org/dev/peps/pep-0008/
-* OK: `spam(ham[1], {eggs: 2})`
-* NG: `spam( ham[ 1 ], { eggs: 2 } )`
-* OK: `dct['key'] = lst[index]`
-* NG: `dct ['key'] = lst [index]`
+  * OK: `spam(ham[1], {eggs: 2})`
+  * NG: `spam( ham[ 1 ], { eggs: 2 } )`
+  * OK: `dct['key'] = lst[index]`
+  * NG: `dct ['key'] = lst [index]`
 
 ---
 
 ### PEP8: コーディングスタイル
 
-* PEP8を守るためのツール
-* pycodestyle: コーディングスタイルのチェックツール
-* autopep8: 自動的に書き換えるツール
-* flake8: pycodestyle + 論理チェックツール
+* 各種サポートツール
+  * pycodestyle: PEP8のチェック
+  * autopep8: 自動的に書き換える
+  * flake8: pycodestyle + 論理チェック
 
 ---
 
@@ -208,12 +208,12 @@ for num in range(1,101):
 
 * Webフレームワーク
 
-  * Django: フルスタック
-  * Bottle: シンプル
+  * Django: https://www.djangoproject.com/
+  * Bottle: https://bottlepy.org/
 
 * Webスクレイピングフレームワーク
 
-  * Scrapy
+  * Scrapy: https://scrapy.org/
 
 ---
 
@@ -230,8 +230,8 @@ for num in range(1,101):
 
 ### 構成管理
 
-* Ansible
-* https://www.ansible.com/
+* Ansible: https://www.ansible.com/
+  * YAMLで記述
 
 ![Ansible](images/ansible.png)
 
@@ -239,9 +239,8 @@ for num in range(1,101):
 
 ### ドキュメンテーション
 
-* Sphinx
-* http://www.sphinx-doc.org/
-* reStructuredText または Markdown で記述
+* Sphinx: http://www.sphinx-doc.org/
+  * reStructuredText または Markdown で記述
 
 ![Sphinx](images/sphinx.png)
 
