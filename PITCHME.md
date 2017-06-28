@@ -1,7 +1,10 @@
 ### Pyhtonの特徴と注目ライブラリのご紹介
 
-2017-06-29 / OSSユーザーのための勉強会 < OSS X Users Meeting > #19 Python
-Suzuki Takanori
+2017-06-29
+
+< OSS X Users Meeting > #19 Python
+
+Takanori Suzuki
 
 ---
 
