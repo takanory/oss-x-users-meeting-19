@@ -193,7 +193,7 @@ dct ['key'] = lst [index]      # Bad
 * Awesome Python
 
   * Web開発
-  * 機械学習
+  * データサイエンス
   * 構成管理
   * ドキュメンテーション
   * その他
@@ -261,6 +261,8 @@ dct ['key'] = lst [index]      # Bad
 
 ![Sphinx](images/sphinx.png)
 
+---
+
 ### その他
 
 * OpenPyXL: https://openpyxl.readthedocs.io/
@@ -269,6 +271,7 @@ dct ['key'] = lst [index]      # Bad
   * Slack(チャット)のbotフレームワーク
 * awscli: https://aws.amazon.com/jp/cli/
   * AWSのコマンドラインツール
+  
 ---
 
 ### Pythonを学ぶには
@@ -323,7 +326,7 @@ dct ['key'] = lst [index]      # Bad
 * [Pythonスタートブック](http://gihyo.jp/book/2010/978-4-7741-4229-6)
 * [Pythonチュートリアル](https://www.oreilly.co.jp/books/9784873117539/)
 * [Pythonプロフェッショナルプログラミング第2版](http://www.shuwasystem.co.jp/products/7980html/4315.html)
-* [Python ライブラリ厳選レシピ](http://gihyo.jp/book/2015/978-4-7741-7707-6)
+* [Pythonライブラリ厳選レシピ](http://gihyo.jp/book/2015/978-4-7741-7707-6)
 
 ---
 
@@ -333,7 +336,15 @@ dct ['key'] = lst [index]      # Bad
   * 第2特集 今すぐはじめるPython
 
 ![Software Design 2017年6月号](images/softwaredesign.jpg)
-  
+
+---
+
+### 書籍(雑誌)
+
+* 懇親会で1冊プレゼント!!!
+
+![Software Design 2017年6月号](images/softwaredesign.jpg)
+
 ---
 
 ### コミュニティ
