@@ -133,10 +133,13 @@ for num in range(1,101):
 
 * PEP 8: Style Guide for Python Code
 * https://www.python.org/dev/peps/pep-0008/
-  * OK: `spam(ham[1], {eggs: 2})`
-  * NG: `spam( ham[ 1 ], { eggs: 2 } )`
-  * OK: `dct['key'] = lst[index]`
-  * NG: `dct ['key'] = lst [index]`
+
+```python
+`spam(ham[1], {eggs: 2})`        # Good
+`spam( ham[ 1 ], { eggs: 2 } )`  # Bad
+`dct['key'] = lst[index]`        # Good
+`dct ['key'] = lst [index]`      # Bad
+```
 
 ---
 
@@ -163,7 +166,7 @@ for num in range(1,101):
 * コマンドラインツール
 * バッチ処理
 * Web開発
-* 機械学習
+* データサイエンス
 * 構成管理
 * ドキュメンテーション
 * その他いろいろ
@@ -220,10 +223,10 @@ for num in range(1,101):
 
 ---
 
-### 機械学習
+### データサイエンス
 
 * NumPy, SciPy: 数値計算、科学計算
-* Pandas: データ解析
+* pandas: データ解析
 * scikit-learn: 機械学習
 * Matplotlib, Bokeh: 可視化
 * Keras, Caffe, TensorFlow: ディープラーニング
@@ -346,11 +349,10 @@ for num in range(1,101):
 ### PyCon JP
 
 * https://pycon.jp/2017
-
-  * 2017年9月開催
-  * 700名以上が参加
-  * 有料(一般 10,000円)
-  * 早割は売り切れ
+* 2017年9月開催
+* 700名以上が参加
+* 有料(一般 10,000円)
+* 早割は売り切れ
 
 ![PyCon JP 2017](images/pyconjp2017-logo.png)
 
