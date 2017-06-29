@@ -189,7 +189,7 @@ dct ['key'] = lst [index]      # Bad
 
 ### 注目ライブラリ
 
-* Pythonライブレリ厳選レシピ
+* Pythonライブラリ厳選レシピ
 * Awesome Python
 
   * Web開発
