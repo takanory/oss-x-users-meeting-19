@@ -10,10 +10,10 @@ Takanori Suzuki / 2017-06-29
 ### Who am I?(お前誰よ)
 
 * 鈴木たかのり / Takanori Suzuki
-* Twitter: @takanory
-* 株式会社ビープラウド
-* 一般社団法人PyCon JP 理事
-* Pythonボルダリング部(#kabepy)部長
+* Twitter: [@takanory](https://twitter.com/takanory)
+* [株式会社ビープラウド](https://www.beproud.jp/)
+* [一般社団法人PyCon JP](https://www.pycon.jp/) 理事
+* [Pythonボルダリング部](https://kabepy.connpass.com/)(#kabepy)部長
 
 ![BeProud](images/beproud.png)
 
