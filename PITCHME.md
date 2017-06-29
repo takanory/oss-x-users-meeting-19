@@ -145,10 +145,10 @@ for num in range(1,101):
 * https://www.python.org/dev/peps/pep-0008/
 
 ```python
-`spam(ham[1], {eggs: 2})`        # Good
-`spam( ham[ 1 ], { eggs: 2 } )`  # Bad
-`dct['key'] = lst[index]`        # Good
-`dct ['key'] = lst [index]`      # Bad
+spam(ham[1], {eggs: 2})        # Good
+spam( ham[ 1 ], { eggs: 2 } )  # Bad
+dct['key'] = lst[index]        # Good
+dct ['key'] = lst [index]      # Bad
 ```
 
 ---
